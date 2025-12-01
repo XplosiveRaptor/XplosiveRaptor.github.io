@@ -1,2 +1,2 @@
-# XplosiveRaptor.github.io
-My personal website.
+# Hello!
+UCLA Bioengineering '29
